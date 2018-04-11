@@ -1,0 +1,12 @@
+.idea/
+wid.cache
+redirect.cache
+*.iml
+*.class
+target/
+annotations.bin
+mapdb/e2a_dataset
+mapdb/e2a_dataset.p
+My_local_code/
+python/trained_model/
+
